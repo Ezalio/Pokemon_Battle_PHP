@@ -1,5 +1,5 @@
 # Pokemon_Battle_PHP
-- Kinsey Witkowski
+- <ins>**Kinsey Witkowski**</ins>	
 
 Mini jeu en PHP orienté objet sur le thème de Pokemon.
 
